@@ -10,6 +10,11 @@ Cange from main
 
 Change from task2
 
+Listado de profesores:
+
+- Juanjo Franco
+
+
 Listado de Alumnos:
 
 -   Juanjo Franco.
