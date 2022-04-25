@@ -18,6 +18,7 @@ Listado de profesores:
 Listado de Alumnos:
 
 -   Juanjo Franco.
+-   José Antonio Garrido García.
     
 Change from github
 
