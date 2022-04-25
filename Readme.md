@@ -12,7 +12,7 @@ Change from task2
 
 Listado de profesores:
 
-- Juanjo Franco
+- Juanjo Franco P.
 
 
 Listado de Alumnos:
