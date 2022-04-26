@@ -14,11 +14,12 @@ Listado de profesores:
 
 - Juanjo Franco
 
-
 Listado de Alumnos:
 
--   Juanjo Franco.
-    
+- Juanjo Franco.
+
+- Miguel Valera
+
 Change from github
 
 # End of lesson
