@@ -16,8 +16,6 @@ Listado de profesores:
 
 
 Listado de Alumnos:
-
--   Juanjo Franco.
     
 Change from github
 
